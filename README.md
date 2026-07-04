@@ -1,6 +1,12 @@
 ### Hi there 👋, My name is Angel Osorio-Bravo
 #### Cybersecurity Projects
 
+Dedicated UNRAID Server
+
+Proxmox Server running multiple LXC, and VMs
+
+Projects within the proxmox
+
 Skills: Virtualization/Networking/Hardware/ServerManagement
 
 
