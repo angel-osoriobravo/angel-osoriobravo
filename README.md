@@ -16,9 +16,13 @@ I design and maintain an enterprise-grade home lab environment used for both pro
 ## 🧰 Tech Stack & Tools
 
 ### Operating Systems & Hypervisors
+### Operating Systems & Hypervisors
 ![Proxmox](https://img.shields.io/badge/Proxmox-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Unraid](https://img.shields.io/badge/Unraid-000000?style=for-the-badge&logo=unraid&logoColor=F15A24)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Networking & Security
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF6600?style=for-the-badge&logo=comptia&logoColor=white)
