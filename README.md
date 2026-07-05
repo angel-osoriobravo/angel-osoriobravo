@@ -1,4 +1,4 @@
-# Hi there! I'm Angel Osorio-Bravo 
+# Hi there! I'm Angel  
 ### About me
 I am a senior Cybersecurity student at the University of Maryland Global Campus with a deep love for technology and problem-solving. What started as a fascinating hobby to pass the time during the COVID-19 pandemic quickly evolved into a dedicated career path.
 
@@ -8,11 +8,14 @@ Here, you will find detailed breakdowns of my entire infrastructure, including t
 
 Thank you for stopping by, and I hope you enjoy exploring my setups!---
 
-## Home Lab
-I created a homelab 4 years ago 
-*   **Storage & Core Data:** Dedicated **Unraid** server environment managing containerized workflows and centralized storage.
-*   **Virtualization Hub:** **Proxmox VE** cluster driving isolated, production-grade LXC containers and specialized Linux virtual machines.
-*   **Active Lab Focus:** Core Virtualization | Advanced Networking | Hardware Optimization | Enterprise Server Management
+## Home Lab (The Farm)
+I created a homelab 4 years ago that has been evolving ever since. It started with an old Dell desktop with a Celeron chip, and now I am running two separate servers, each with its own purpose. For simplicity, I will be documenting my current servers here.
+
+### My Servers
+*   **Dell OptiPlex 7060:** This is my main hypervisor server, and it runs Proxmox.
+*   **Custom-Built PC:** This is my main storage and docker server, which runs Unraid with 10TB of storage.
+
+I will have more in-depth explanations on each of these!
 
 ---
 
