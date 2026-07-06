@@ -9,7 +9,7 @@ I created a homelab four years ago that has been evolving ever since. It started
 
 ### My Servers
 *   **(Pollo_Server2 )Dell OptiPlex 7060:** This is my main hypervisor server, and it runs Proxmox.
-*   **(Nike_Server) Custom PC:** This is my main storage and docker server, which runs UNRAID with 10TB of storage.
+*   **(Niko_Server) Custom PC:** This is my main storage and docker server, which runs UNRAID with 10TB of storage.
 
 I will have more in-depth explanations on each of these!
 
